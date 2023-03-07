@@ -1,7 +1,15 @@
-/*
-git pull
+git config --global user.name "Facu Rozada"
+git config --global user.email facundorozada@gmail
+git config -l
+clear
+git init
+git remote add origin [URL del repositorio remoto]
+git remote -v
+
 git status
 git add .
-git commit -m "comentario de 50 caracteres"
+git commit -m "comentario de NO MÁS DE 50 caracteres"
 git push origin main
-*/
+
+https://git-scm.com/docs
+https://github.com/EggCooperation
