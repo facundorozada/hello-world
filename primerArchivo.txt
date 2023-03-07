@@ -1,4 +1,7 @@
 /*
-mis primeras
-líneas de código
+git pull
+git status
+git add .
+git commit -m "comentario de 50 caracteres"
+git push origin main
 */
